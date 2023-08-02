@@ -10,3 +10,9 @@ weight.unshift(0.1)
 #this will add the element "0.1" to the begining of the array
 yummy.push(true)
 #this will add the element "true" to the end of the array
+
+#index positions 
+#Index positions start at 0 and count up from left to right
+#Ice_cream[0] would return "Vanilla"
+#scoops[1] would return "2"
+#weight[3] would return "4.5"
