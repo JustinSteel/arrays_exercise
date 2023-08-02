@@ -16,3 +16,7 @@ yummy.push(true)
 #Ice_cream[0] would return "Vanilla"
 #scoops[1] would return "2"
 #weight[3] would return "4.5"
+
+additional method
+#if we use scoops.insert(4, 5, 6, 7) it will add 5, 6, 7 to the 4th position of scoops 
+#which is right after "4" which is in the 3rd position.
